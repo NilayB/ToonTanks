@@ -82,4 +82,5 @@ Content/StarterContent/*
 
 VSCode Files
 /.vscode/*
+Platforms/
 ToonTanks.code-workspace
